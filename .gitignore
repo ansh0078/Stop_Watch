@@ -1,33 +1,63 @@
-# Gradle files
-.gradle/
-build/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
 *.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/app/.gitignore
+/.gitignore
+/app/src/main/res/layout/activity_main.xml
+/app/src/main/res/layout/activity_main_page.xml
+/app/src/main/AndroidManifest.xml
+/app/build.gradle
+/build.gradle
+/app/src/main/res/drawable/circle.xml
+/app/src/main/assets/circular-lottie.json
+/app/src/main/res/raw/circular_lottie.json
+/app/src/main/res/values/colors.xml
+/app/src/main/res/raw/data.json
+/app/src/androidTest/java/com/sambhav2358/testing/ExampleInstrumentedTest.java
+/app/src/test/java/com/sambhav2358/testing/ExampleUnitTest.java
+/gradle.properties
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/app/src/main/res/mipmap-hdpi/ic_launcher.webp
+/app/src/main/res/mipmap-mdpi/ic_launcher.webp
+/app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+/app/src/main/res/drawable/ic_launcher_background.xml
+/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+/app/src/main/res/drawable/logo.png
+/app/src/main/res/mipmap-xhdpi/logo.png
+/app/src/main/java/com/sambhav2358/testing/Main_Page.java
+/app/src/main/java/com/sambhav2358/testing/MainActivity.java
+/app/src/main/res/drawable/pause.xml
+/app/src/main/res/drawable/play.xml
+/app/src/main/java/com/sambhav2358/testing/PrefUtil.java
+/app/proguard-rules.pro
+/README.md
+/app/src/main/res/drawable/reset.xml
+/settings.gradle
+/app/src/main/java/com/sambhav2358/testing/StopwatchNotificationActionReceiver.java
+/app/src/main/res/values/strings.xml
+/app/src/main/res/values/themes.xml
+/app/src/main/java/com/sambhav2358/testing/TimerService.java
